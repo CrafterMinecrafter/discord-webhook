@@ -1,0 +1,32 @@
+{
+    "id": "id",
+    "token": "token",
+    "data": {
+        "username": "My Webhook",
+        "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+        "content": "Hello world!",
+        "embeds": [
+            {
+                "title": "Embed Title",
+                "color": 1962923,
+                "description": "Embed description.",
+                "fields": [
+                    {
+                        "name": "One field.",
+                        "value": "*Insert thing.*"
+                    },
+                    {
+                        "name": "Another field.",
+                        "value": "*Insert another thing.*"
+                    }
+                ]
+            },
+            {
+                "title": "You can also have up to ten embeds in a webhook!",
+                "color": 6750364
+            }
+        ]
+    },
+    "NOTE": "See the link below for more functionality with the webhooks.",
+    "i": "https://discord.com/developers/docs/resources/webhook#execute-webhook-jsonform-params"
+}

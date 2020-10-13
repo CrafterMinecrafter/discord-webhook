@@ -1,0 +1,16 @@
+{
+    "name": "discord-webhook",
+    "version": "1.1.0",
+    "description": "Just a template I use for initiating Discord webhooks.",
+    "main": "main.js",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    },
+    "repository": "codedipper/discord-webhook",
+    "license": "MIT",
+    "keywords": [
+        "discord",
+        "webhook",
+        "discord-webhook"
+    ]
+}
